@@ -6,7 +6,7 @@ A website showcasing the 2011 Birmingham Rangers Hockey Team
 
 The 2011 Birmingham Rangers are a competitive hockey team comprised of some of the best talented youth hockey players from the Metro Detroit Area.
 
-![Wireframe of Landing Page](Rangers Logo.jpg)
+![Wireframe of Landing Page](Rangers Logo.jpeg)
 
 Header - will include navigation menu and team name
 
